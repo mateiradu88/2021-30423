@@ -1,0 +1,5 @@
+12  Clothes
+21  Books
+36  Food
+49  Games
+120  Plumbing Accesories
